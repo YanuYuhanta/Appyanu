@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Appyanu</string>
+    <string name="film1">San Andreas</string>
+    <string name="film2">Hunter Killer</string>
+    <string name="film3">BattleShip</string>
+    <string name="film4">Doctor Strange</string>
+    <string name="film5">Jurrasic Park</string>
+    <string name="film6">Avatar</string>
+</resources>
